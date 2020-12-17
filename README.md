@@ -12,7 +12,8 @@ This project was generated from the Momentum Django project template. This templ
 
 ## Using this template
 
-In an empty directory, run:
+Create an empty directory.
+In that directory, run:
 
 ```
 django-admin startproject --template=https://github.com/momentumlearn/django-project-template/archive/main.zip --name=Pipfile project .
